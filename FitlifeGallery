@@ -27,4 +27,109 @@
 
     <!-- 2 -->
     <div class="w3-third w3-margin-bottom w3-card-4 topic-workouts task-start audience-athletes">
-      <img src="https://s
+      <img src="https://source.unsplash.com/600x400/?strength,training" alt="Strength Training" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Total Strength</h5>
+        <p>Focus on power and muscle development.</p>
+      </div>
+    </div>
+
+    <!-- 3 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-tutorials task-learn audience-beginners">
+      <img src="https://source.unsplash.com/600x400/?yoga,pose" alt="Yoga Tutorial" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Yoga Basics</h5>
+        <p>Learn essential yoga poses for flexibility and balance.</p>
+      </div>
+    </div>
+
+    <!-- 4 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-nutrition task-learn audience-beginners">
+      <img src="https://source.unsplash.com/600x400/?nutrition,healthy-food" alt="Nutrition Basics" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Nutrition 101</h5>
+        <p>Discover balanced meal plans to fuel your body.</p>
+      </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-hydration task-learn audience-athletes">
+      <img src="https://source.unsplash.com/600x400/?water,bottle" alt="Hydration" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Stay Hydrated</h5>
+        <p>Learn the importance of hydration in performance.</p>
+      </div>
+    </div>
+
+    <!-- 6 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-guides task-learn audience-beginners">
+      <img src="https://source.unsplash.com/600x400/?fitness,guide" alt="Fitness Guide" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Beginner Fitness Guide</h5>
+        <p>Start your journey with clear, expert advice.</p>
+      </div>
+    </div>
+
+    <!-- 7 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-myths task-learn audience-beginners">
+      <img src="https://source.unsplash.com/600x400/?fitness,myth" alt="Fitness Myths" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Fitness Myths</h5>
+        <p>Bust common misconceptions about working out.</p>
+      </div>
+    </div>
+
+    <!-- 8 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-community task-connect audience-athletes">
+      <img src="https://source.unsplash.com/600x400/?gym,community" alt="Join Community" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Join the Community</h5>
+        <p>Connect with like-minded fitness enthusiasts.</p>
+      </div>
+    </div>
+
+    <!-- 9 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-stories task-connect audience-beginners">
+      <img src="https://source.unsplash.com/600x400/?success,fitness" alt="Success Stories" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Success Stories</h5>
+        <p>Be inspired by real-life fitness transformations.</p>
+      </div>
+    </div>
+
+    <!-- 10 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-team task-connect audience-athletes">
+      <img src="https://source.unsplash.com/600x400/?trainer,team" alt="Trainer Team" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Meet Our Trainers</h5>
+        <p>Learn more about the professionals behind FitLife Hub.</p>
+      </div>
+    </div>
+
+    <!-- 11 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-faqs task-learn audience-beginners">
+      <img src="https://source.unsplash.com/600x400/?faq,question" alt="Fitness FAQs" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Fitness FAQs</h5>
+        <p>Answers to your most common health and training questions.</p>
+      </div>
+    </div>
+
+    <!-- 12 -->
+    <div class="w3-third w3-margin-bottom w3-card-4 topic-contact task-connect audience-athletes">
+      <img src="https://source.unsplash.com/600x400/?contact,trainer" alt="Contact a Trainer" class="w3-image">
+      <div class="w3-container w3-center">
+        <h5>Contact a Trainer</h5>
+        <p>Reach out for personalized fitness advice and plans.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <footer class="w3-container w3-center w3-blue w3-padding-16">
+    <p>© 2025 FitLife Hub | Powered by W3.CSS</p>
+  </footer>
+
+</body>
+</html>
+
